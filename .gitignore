@@ -1,0 +1,6 @@
+
+# credential file
+.env
+
+# env folder
+/cohort-env
